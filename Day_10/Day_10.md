@@ -11,9 +11,6 @@ Welcome to **Day 10** of my **100 Days of Code Challenge**! Today, I implemented
 - **Programming Language:** Java
 - **Concepts:** Recursion, Loops, Factorial Calculation
 
-## 🔗 Links to Code
-- [Day 10 Code Repository](https://github.com/kiranreddy4433E/Day_10/blob/main/pro_22.java): This repository contains the code solution for finding the factorial of a number.
-
 ## 📖 Problem Description
 - The task is to take an integer as input and calculate its **factorial**.
 - The factorial of a number \(n\) is calculated as:
