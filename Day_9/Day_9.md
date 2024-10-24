@@ -11,9 +11,6 @@ Welcome to **Day 9** of my **100 Days of Code Challenge**! Today, I wrote a Java
 - **Programming Language:** Java
 - **Concepts:** Loops, Input Handling, Integer Division, String Length
 
-## 🔗 Links to Code
-- [Day 9 Code Repository](https://github.com/kiranreddy4433E/Day_9/blob/main/pro_21.java): This repository contains the code solution for counting the number of digits in a given integer.
-
 ## 📖 Problem Description
 - The task is to take an integer input from the user and calculate how many digits the number contains. The program should work for both positive and negative numbers.
   
