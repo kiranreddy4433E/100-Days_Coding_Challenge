@@ -10,9 +10,6 @@ Today, I worked on the following:
 ## Technologies Used
 - Java (DSA concepts)
 
-## Links to Code
-- [Add the link to the specific file or folder in your repository where today's code can be found.]
-
 ## Lessons Learned
 - Learned how to use arrays in Java to categorize characters.
 - Practiced using `for` loops to iterate over strings.
