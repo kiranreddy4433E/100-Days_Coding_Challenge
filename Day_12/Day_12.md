@@ -11,9 +11,6 @@ Welcome to **Day 12** of my **100 Days of Code Challenge**! Today, I implemented
 - **Programming Language:** Java
 - **Concepts:** Loops, Modulus Operator, Integer Division
 
-## 🔗 Links to Code
-- [Day 12 Code Repository](https://github.com/kiranreddy4433E/Day_12/blob/main/pro_24.java): This repository contains the code solution for finding the sum of digits of a number.
-
 ## 📖 Problem Description
 - The task is to take an integer input and calculate the sum of its digits. This is done by repeatedly extracting the last digit of the number using the **modulus operator** (`%`) and reducing the number by dividing it by 10.
   
