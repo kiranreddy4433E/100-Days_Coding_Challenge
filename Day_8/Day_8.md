@@ -11,9 +11,6 @@ Welcome to **Day 8** of my **100 Days of Code Challenge**! Today, I implemented 
 - **Programming Language:** Java
 - **Concepts:** Quadratic Equation, Discriminant, Math.sqrt(), Conditional Logic
 
-## 🔗 Links to Code
-- [Day 8 Code Repository](https://github.com/kiranreddy4433E/Day_8/blob/main/pro_20.java): This repository contains the code solution for finding the roots of a quadratic equation.
-
 ## 📖 Problem Description
 - The task is to find the **roots of a quadratic equation** of the form `ax^2 + bx + c = 0`.
 - The roots are calculated using the **quadratic formula**:
