@@ -11,9 +11,6 @@ Welcome to **Day 11** of my **100 Days of Code Challenge**! Today, I implemented
 - **Programming Language:** Java
 - **Concepts:** Recursion, Iteration, Fibonacci Sequence
 
-## 🔗 Links to Code
-- [Day 11 Code Repository](https://github.com/kiranreddy4433E/Day_11/blob/main/pro_23.java): This repository contains the code solution for generating the Fibonacci series.
-
 ## 📖 Problem Description
 - The task is to generate the **Fibonacci series** up to a specified number of terms. The Fibonacci series is defined as:
   \[
