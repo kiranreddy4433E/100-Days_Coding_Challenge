@@ -11,9 +11,6 @@ Welcome to **Day 4** of my **100 Days of Code Challenge**! Today, I implemented 
 - **Programming Language:** Java
 - **Concepts:** Conditional Statements, Input Handling
 
-## 🔗 Links to Code
-- [Day 4 Code Repos](https://github.com/kiranreddy4433E/Day_4/blob/main/pro_14.java): This repository contains the code solution for today's problem of determining if a number is positive, negative, or zero.
-
 ## 📖 Problem Description
 - The task is to take a number as input and determine if the number is positive, negative, or zero.
 - **Input/Output Example**:
