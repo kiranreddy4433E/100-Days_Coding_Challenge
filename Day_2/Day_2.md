@@ -13,9 +13,6 @@ Today, I worked on the following:
 - **Programming Language:** Java
 - **Concepts:** Data Structures (Arrays, Linked Lists), Sorting Algorithms
 
-## Links to Code
-- [Sorting Algorithms Code](#link-to-repository): A Java program that implements various sorting algorithms such as Bubble Sort, Selection Sort, and Insertion Sort.
-
 ## Lessons Learned
 - Reinforced my understanding of the efficiency of **sorting algorithms** and the difference in time complexities between **O(n^2)** and better approaches.
 - Practiced solving problems using **Arrays** and **Linked Lists**, learning how to optimize space usage and manage dynamic memory in Java.
