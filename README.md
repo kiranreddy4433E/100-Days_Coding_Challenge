@@ -16,25 +16,25 @@ I have embarked on this journey to solve **one coding problem every day** for th
 
 | Day   | Problem Description                         | Problem Link                     | Solution Link                    | Status  |
 |-------|---------------------------------------------|-----------------------------------|-----------------------------------|---------|
-| Day 1 | Finding Vowels and Consonants               | [Problem 1](./Day1/Day1.md)       | [Solution](./Day1/Day1Solution.java) | ✅      |
-| Day 2 | Sorting Algorithms                          | [Problem 2](./Day2/Day2.md)       | [Solution](./Day2/Day2Solution.java) | ✅      |
-| Day 3 | ASCII Values of Characters                  | [Problem 3](./Day3/Day3.md)       | [Solution](./Day3/Day3Solution.java) | ✅      |
-| Day 4 | Positive or Negative Number                 | [Problem 4](./Day4/Day4.md)       | [Solution](./Day4/Day4Solution.java) | ✅      |
-| Day 5 | Even or Odd Number                          | [Problem 5](./Day5/Day5.md)       | [Solution](./Day5/Day5Solution.java) | ✅      |
-| Day 6 | Find Quadrants                              | [Problem 6](./Day6/Day6.md)       | [Solution](./Day6/Day6Solution.java) | ✅      |
-| Day 7 | Number of Days in a Month                   | [Problem 7](./Day7/Day7.md)       | [Solution](./Day7/Day7Solution.java) | ✅      |
-| Day 8 | Quadratic Equation Roots                    | [Problem 8](./Day8/Day8.md)       | [Solution](./Day8/Day8Solution.java) | ✅      |
-| Day 9 | Count Digits in a Number                    | [Problem 9](./Day9/Day9.md)       | [Solution](./Day9/Day9Solution.java) | ✅      |
-| Day 10| Factorial of a Number                       | [Problem 10](./Day10/Day10.md)    | [Solution](./Day10/Day10Solution.java) | ✅      |
-| Day 11| Fibonacci Series                            | [Problem 11](./Day11/Day11.md)    | [Solution](./Day11/Day11Solution.java) | ✅      |
-| Day 12| Sum of Digits                               | [Problem 12](./Day12/Day12.md)    | [Solution](./Day12/Day12Solution.java) | ✅      |
-| Day 13| [Next Problem Title]                        | [Problem 13](./Day13/Day13.md)    | [Solution](./Day13/Day13Solution.java) | ⏳      |
-
+| Day 1 | Finding Vowels and Consonants               | [Problem 1](https://github.com/kiranreddy4433E/100-Days_Coading_Challenge/blob/main/Day_1/Day_1.md)       | [Solution](https://github.com/kiranreddy4433E/100-Days_Coading_Challenge/blob/main/Day_1/Day_1.md) | ✅      |
+| Day 2 | Sorting Algorithms                          | [Problem 2](https://github.com/kiranreddy4433E/100-Days_Coading_Challenge/blob/main/Day_2/Day_2.md)       | [Solution](https://github.com/kiranreddy4433E/100-Days_Coading_Challenge/blob/main/Day_2/Day_2.md) | ✅      |
+| Day 3 | ASCII Values of Characters                  | [Problem 3](https://github.com/kiranreddy4433E/100-Days_Coading_Challenge/blob/main/Day_3/Day_3.md)       | [Solution](https://github.com/kiranreddy4433E/100-Days_Coading_Challenge/blob/main/Day_3/Day_3.md) | ✅      |
+| Day 4 | Positive or Negative Number                 | [Problem 4](https://github.com/kiranreddy4433E/100-Days_Coading_Challenge/blob/main/Day_4/Day_4.md)       | [Solution](https://github.com/kiranreddy4433E/100-Days_Coading_Challenge/blob/main/Day_4/Day_4.md) | ✅      |
+| Day 5 | Even or Odd Number                          | [Problem 5](https://github.com/kiranreddy4433E/100-Days_Coading_Challenge/blob/main/Day_5/Day_5.md)       | [Solution](https://github.com/kiranreddy4433E/100-Days_Coading_Challenge/blob/main/Day_5/Day_5.md) | ✅      |
+| Day 6 | Find Quadrants                              | [Problem 6](https://github.com/kiranreddy4433E/100-Days_Coading_Challenge/blob/main/Day_6/Day_6.md)       | [Solution](https://github.com/kiranreddy4433E/100-Days_Coading_Challenge/blob/main/Day_6/Day_6.md) | ✅      |
+| Day 7 | Number of Days in a Month                   | [Problem 7](https://github.com/kiranreddy4433E/100-Days_Coading_Challenge/blob/main/Day_7/Day_7.md)       | [Solution](https://github.com/kiranreddy4433E/100-Days_Coading_Challenge/blob/main/Day_7/Day_7.md) | ✅      |
+| Day 8 | Quadratic Equation Roots                    | [Problem 8](https://github.com/kiranreddy4433E/100-Days_Coading_Challenge/blob/main/Day_8/Day_8.md)       | [Solution](https://github.com/kiranreddy4433E/100-Days_Coading_Challenge/blob/main/Day_8/Day_8.md) | ✅      |
+| Day 9 | Count Digits in a Number                    | [Problem 9](https://github.com/kiranreddy4433E/100-Days_Coading_Challenge/blob/main/Day_9/Day_9.md)       | [Solution](https://github.com/kiranreddy4433E/100-Days_Coading_Challenge/blob/main/Day_9/Day_9.md) | ✅      |
+| Day 10| Factorial of a Number                       | [Problem 10](https://github.com/kiranreddy4433E/100-Days_Coading_Challenge/blob/main/Day_10/Day_10.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coading_Challenge/blob/main/Day_10/Day_10.md) | ✅      |
+| Day 11| Fibonacci Series                            | [Problem 11](https://github.com/kiranreddy4433E/100-Days_Coading_Challenge/blob/main/Day_11/Day_11.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coading_Challenge/blob/main/Day_11/Day_11.md) | ✅      |
+| Day 12| Sum of Digits                               | [Problem 12](https://github.com/kiranreddy4433E/100-Days_Coading_Challenge/blob/main/Day_12/Day_12.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coading_Challenge/blob/main/Day_12/Day_12.md) | ✅      |
+| Day 13| Write a program to find Sum of N natural numbers                        | [Problem 13](https://github.com/kiranreddy4433E/100-Days_Coading_Challenge/blob/main/Day_13/Day_13.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coading_Challenge/blob/main/Day_13/Day_13.md) | ✅      |
+| Day 14| [Next Problem Title]                        | [Problem 14](https://github.com/kiranreddy4433E/100-Days_Coading_Challenge/tree/main/Day_14)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coading_Challenge/tree/main/Day_14) | ⏳      |
 
 ---
 ### Stay tuned for my progress! 📅
 I’ll be regularly updating this repo with new challenges and solutions. Feel free to explore the solutions and track my progress.
 
 ### 🔗 Connect with me on:
-- LinkedIn
+- [LinkedIn](https://www.linkedin.com/in/chandra-kiran-reddy-reddycharla-a9a746230/)
 - Weekly updates about the challenge!
