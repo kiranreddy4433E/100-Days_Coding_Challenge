@@ -11,9 +11,6 @@ Welcome to **Day 6** of my **100 Days of Code Challenge**! Today, I implemented 
 - **Programming Language:** Java
 - **Concepts:** Conditional Statements, Coordinate Geometry
 
-## 🔗 Links to Code
-- [Day 6 Code Repository](#link-to-repository): This repository contains the code solution for determining the quadrant in which the coordinates lie.
-
 ## 📖 Problem Description
 - The task is to take two inputs (x and y coordinates) and determine which quadrant the point lies in.
 - **Input/Output Example**:
