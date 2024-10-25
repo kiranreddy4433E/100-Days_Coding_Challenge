@@ -29,7 +29,7 @@ I have embarked on this journey to solve **one coding problem every day** for th
 | Day 11| Fibonacci Series                            | [Problem 11](https://github.com/kiranreddy4433E/100-Days_Coading_Challenge/blob/main/Day_11/Day_11.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coading_Challenge/blob/main/Day_11/Day_11.md) | ✅      |
 | Day 12| Sum of Digits                               | [Problem 12](https://github.com/kiranreddy4433E/100-Days_Coading_Challenge/blob/main/Day_12/Day_12.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coading_Challenge/blob/main/Day_12/Day_12.md) | ✅      |
 | Day 13| Write a program to find Sum of N natural numbers                        | [Problem 13](https://github.com/kiranreddy4433E/100-Days_Coading_Challenge/blob/main/Day_13/Day_13.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coading_Challenge/blob/main/Day_13/Day_13.md) | ✅      |
-| Day 14| [Next Problem Title]                        | [Problem 14](https://github.com/kiranreddy4433E/100-Days_Coading_Challenge/tree/main/Day_14)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coading_Challenge/tree/main/Day_14) | ✅      |
+| Day 14| Write a program to reverse a given number                       | [Problem 14](https://github.com/kiranreddy4433E/100-Days_Coading_Challenge/tree/main/Day_14)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coading_Challenge/tree/main/Day_14) | ✅      |
 | Day 15| [Next Problem Title]                        | [Problem 15]()    | [Solution]() | ⏳      |
 
 ---
