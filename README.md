@@ -30,7 +30,8 @@ I have embarked on this journey to solve **one coding problem every day** for th
 | Day 12| Sum of Digits                               | [Problem 12](https://github.com/kiranreddy4433E/100-Days_Coading_Challenge/blob/main/Day_12/Day_12.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coading_Challenge/blob/main/Day_12/Day_12.md) | ✅      |
 | Day 13| Write a program to find Sum of N natural numbers                        | [Problem 13](https://github.com/kiranreddy4433E/100-Days_Coading_Challenge/blob/main/Day_13/Day_13.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coading_Challenge/blob/main/Day_13/Day_13.md) | ✅      |
 | Day 14| Write a program to reverse a given number                       | [Problem 14](https://github.com/kiranreddy4433E/100-Days_Coading_Challenge/tree/main/Day_14)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coading_Challenge/tree/main/Day_14) | ✅      |
-| Day 15| [Next Problem Title]                        | [Problem 15]()    | [Solution]() | ⏳      |
+| Day 15| Write a program to identify if the number is Strong number or not                        | [Problem 15](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/tree/main/Day_15)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/tree/main/Day_15) | ✅      |
+| Day 15| [Next Problem Title]                        | [Problem 16]()    | [Solution]() |      |
 
 ---
 ### Stay tuned for my progress! 📅
