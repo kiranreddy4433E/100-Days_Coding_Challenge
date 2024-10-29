@@ -33,7 +33,7 @@ I have embarked on this journey to solve **one coding problem every day** for th
 | Day 15| Write a program to identify if the number is Strong number or not                        | [Problem 15](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/tree/main/Day_15)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/tree/main/Day_15) | ✅      |
 | Day 16|  Write a program to identify if the number is Perfect number or not                       | [Problem 16](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_16/Day_16.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_16/Day_16.md) | ✅     |
 | Day 17| Write a program to find the Factors of a number                       | [Problem 17](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_17/Day_17.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_17/Day_17.md) | ✅     |
-| Day 18| [Next Problem Title]                        | [Problem 18]()    | [Solution]() | ✅    |
+| Day 18|  Write a program to Add two fractions                        | [Problem 18](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_18/Day_18.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_18/Day_18.md) | ✅    |
 | Day 19| [Next Problem Title]                        | [Problem 19]()    | [Solution]() |     |
 
 ---
