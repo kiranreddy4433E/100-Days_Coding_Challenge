@@ -88,7 +88,7 @@ Calculating powers for each digit accurately was crucial for identifying Armstro
 ---
 ### 📬 Connect with me
 - Email: kiranreddy4746@gmail.com
-- LinkedIn: Chandra Kiran Reddy Reddycharla
+- LinkedIn: [Chandra Kiran Reddy Reddycharla](https://www.linkedin.com/in/chandra-kiran-reddy-reddycharla-a9a746230/)
 - Twitter: @kiran4746
 
 ---
