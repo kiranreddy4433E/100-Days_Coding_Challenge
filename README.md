@@ -34,7 +34,9 @@ I have embarked on this journey to solve **one coding problem every day** for th
 | Day 16|  Write a program to identify if the number is Perfect number or not                       | [Problem 16](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_16/Day_16.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_16/Day_16.md) | ✅     |
 | Day 17| Write a program to find the Factors of a number                       | [Problem 17](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_17/Day_17.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_17/Day_17.md) | ✅     |
 | Day 18|  Write a program to Add two fractions                        | [Problem 18](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_18/Day_18.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_18/Day_18.md) | ✅    |
-| Day 19| [Next Problem Title]                        | [Problem 19]()    | [Solution]() |     |
+| Day 19| [Next Problem Title]                        | [Problem 19](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_19/Day_19.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_19/Day_19.md) | ✅    |
+| Day 20| [Next Problem Title]                        | [Problem 20](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_20/Day_20.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_20/Day_20.md) | ✅    |
+| Day 21| [Next Problem Title]                        | [Problem 21]()    | [Solution]() |     |
 
 ---
 ### Stay tuned for my progress! 📅
