@@ -37,7 +37,8 @@ I have embarked on this journey to solve **one coding problem every day** for th
 | Day 19| Write a program to identify if the number is Armstrong number or not                       | [Problem 19](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_19/Day_19.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_19/Day_19.md) | ✅    |
 | Day 20| Write a program to identify if the number is Prime number or not                      | [Problem 20](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_20/Day_20.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_20/Day_20.md) | ✅    |
 | Day 21| Write a program to identify if the number is Palindrome or not                       | [Problem 21](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_21/Day_21.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_21/Day_21.md) | ✅    |
-| Day 22| Write a program to express a number as a sum of two prime numbers                       | [Problem 22]()    | [Solution]() |     |
+| Day 22| Write a program to express a number as a sum of two prime numbers                       | [Problem 22](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_22/Day_22.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_22/Day_22.md) | ✅    |
+| Day 23| Write a program to express a number as a sum of two prime numbers                       | [Problem 23]()    | [Solution]() |     |
 
 ---
 ### Stay tuned for my progress! 📅
