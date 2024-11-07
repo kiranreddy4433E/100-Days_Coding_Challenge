@@ -42,7 +42,8 @@ I have embarked on this journey to solve **one coding problem every day** for th
 | Day 24| Write a program to print Pyramid pattern using stars                      | [Problem 24](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_24/Day_24.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_24/Day_24.md) | ✅   |
 | Day 25| Write a program to find Area of a circle                      | [Problem 25](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_25/Day_25.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_25/Day_25.md) | ✅    |
 | Day 26| Write a program to calculate Maximum number of handshakes                      | [Problem 26](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_26/Day_26.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_26/Day_26.md) | ✅    |
-| Day 27| next question                      | [Problem 27]()    | [Solution]() |     |
+| Day 27| Write a program to find the double of the given number without using arithmetic operator                      | [Problem 27](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_27/Day_27.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_27/Day_27.md) | ✅    |
+| Day 28| next question                      | [Problem 28]()    | [Solution]() |     |
 
 ---
 ### Stay tuned for my progress! 📅
