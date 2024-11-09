@@ -44,7 +44,8 @@ I have embarked on this journey to solve **one coding problem every day** for th
 | Day 26| Write a program to calculate Maximum number of handshakes                      | [Problem 26](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_26/Day_26.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_26/Day_26.md) | ✅    |
 | Day 27| Write a program to find the double of the given number without using arithmetic operator                      | [Problem 27](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_27/Day_27.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_27/Day_27.md) | ✅    |
 | Day 28| Write a Program to reverse a string.                      | [Problem 28](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_28/Day_28.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_28/Day_28.md) | ✅    |
-| Day 29| next question                      | [Problem 29]()    | [Solution]() |     |
+| Day 29| Write a Program to concatenate a string.                      | [Problem 29](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_29/Day_29.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_29/Day_29.md) | ✅    |
+| Day 30| next question                      | [Problem 30]()    | [Solution]() |     |
 
 ---
 ### Stay tuned for my progress! 📅
