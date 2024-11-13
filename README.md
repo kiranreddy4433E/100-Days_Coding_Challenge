@@ -49,7 +49,7 @@ I have embarked on this journey to solve **one coding problem every day** for th
 | Day 31| find kth smallest or largest number in an array                      | [Problem 31](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_31/Day_31.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_31/Day_31.md) | ✅    |
 | Day 31(a)| Write a Program to Toggle each character in a string                      | [Problem 31](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_31/day_31.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_31/day_31.md) | ✅    |
 | Day 32| Write a Program to Remove vowels from a string                     | [Problem 32](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_32/Day_32.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_32/Day_32.md) | ✅    |
-| Day 33| next question                      | [Problem 33]()    | [Solution]() |     |
+| Day 33| Write a Program to check if String is a palindrome or not                      | [Problem 33](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_33/Day_33.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_33/Day_33.md) | ✅    |
 | Day 34| next question                      | [Problem 34]()    | [Solution]() |     |
 | Day 35| next question                      | [Problem 35]()    | [Solution]() |     |
 
