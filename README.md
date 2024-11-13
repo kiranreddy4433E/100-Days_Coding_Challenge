@@ -48,7 +48,10 @@ I have embarked on this journey to solve **one coding problem every day** for th
 | Day 30|  Write a Program to print Length of the string without using strlen() function                      | [Problem 30](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_30/Day_30.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_30/Day_30.md) | ✅    |
 | Day 31| find kth smallest or largest number in an array                      | [Problem 31](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_31/Day_31.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_31/Day_31.md) | ✅    |
 | Day 31(a)| Write a Program to Toggle each character in a string                      | [Problem 31](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_31/day_31.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_31/day_31.md) | ✅    |
-| Day 32| next question                      | [Problem 32]()    | [Solution]() |     |
+| Day 32| Write a Program to Remove vowels from a string                     | [Problem 32]()    | [Solution]() |     |
+| Day 33| next question                      | [Problem 33]()    | [Solution]() |     |
+| Day 34| next question                      | [Problem 34]()    | [Solution]() |     |
+| Day 35| next question                      | [Problem 35]()    | [Solution]() |     |
 
 ---
 ### Stay tuned for my progress! 📅
