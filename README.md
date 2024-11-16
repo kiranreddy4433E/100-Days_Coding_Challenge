@@ -51,7 +51,11 @@ I have embarked on this journey to solve **one coding problem every day** for th
 | Day 32| Write a Program to Remove vowels from a string                     | [Problem 32](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_32/Day_32.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_32/Day_32.md) | ✅    |
 | Day 33| Write a Program to check if String is a palindrome or not                      | [Problem 33](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_33/Day_33.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_33/Day_33.md) | ✅    |
 | Day 34| Write a Program to Remove brackets from an algebraic expression                      | [Problem 34](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_34/Day_34.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_34/Day_34.md) | ✅    |
-| Day 35| next question                      | [Problem 35]()    | [Solution]() |     |
+| Day 35| Write a Program to Count the sum of numbers in a string                     | [Problem 35](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_35/Day_35.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_35/Day_35.md) | ✅    |
+| Day 36| next question                      | [Problem 36]()    | [Solution]() |     |
+| Day 37| next question                      | [Problem 37]()    | [Solution]() |     |
+| Day 38| next question                      | [Problem 38]()    | [Solution]() |     |
+| Day 39| next question                      | [Problem 39]()    | [Solution]() |     |
 
 ---
 ### Stay tuned for my progress! 📅
