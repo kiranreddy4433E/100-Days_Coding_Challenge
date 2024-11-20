@@ -55,7 +55,11 @@ I have embarked on this journey to solve **one coding problem every day** for th
 | Day 36|  Write a Program to Capitalize the first and last letter of each word of a string                      | [Problem 36](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_36/Day_36.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_36/Day_36.md) | [✅](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_38/Day_38.md)    |
 | Day 37| Write a Program to calculate the Frequency of characters in a string                      | [Problem 37](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_37/Day_37.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_37/Day_37.md) | ✅    |
 | Day 38| Write a Program to print Non-repeating characters in a string                     | [Problem 38](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_38/Day_38.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_38/Day_38.md) | ✅    |
-| Day 39| next question                      | [Problem 39]()    | [Solution]() |     |
+| Day 39| Write a Program to check if two strings are Anagram or not                      | [Problem 39](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_39/Day_39.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_39/Day_39.md) | ✅    |
+| Day 40| next question                      | [Problem 40]()    | [Solution]() |     |
+| Day 41| next question                      | [Problem 41]()    | [Solution]() |     |
+| Day 42| next question                      | [Problem 42]()    | [Solution]() |     |
+| Day 43| next question                      | [Problem 43]()    | [Solution]() |     |
 
 ---
 ### Stay tuned for my progress! 📅
