@@ -58,7 +58,7 @@ I have embarked on this journey to solve **one coding problem every day** for th
 | Day 39| Write a Program to check if two strings are Anagram or not                      | [Problem 39](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_39/Day_39.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_39/Day_39.md) | ✅    |
 | Day 40| Array Input and Display Program                      | [Problem 40](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_40/Day_40.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_40/Day_40.md) | ✅    |
 | Day 40(a)| Write a Program to Replace substring in a string                      | [Problem 40(a)](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_40/Day_40(a).md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_40/Day_40(a).md) | ✅    |
-| Day 41| next question                      | [Problem 41]()    | [Solution]() |     |
+| Day 41| Check if two strings match where one string contains wildcard characters                     | [Problem 41](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_41/Day_41.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_41/Day_41.md) | ✅    |
 | Day 42| next question                      | [Problem 42]()    | [Solution]() |     |
 | Day 43| next question                      | [Problem 43]()    | [Solution]() |     |
 
