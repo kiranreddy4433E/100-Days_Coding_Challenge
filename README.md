@@ -60,7 +60,12 @@ I have embarked on this journey to solve **one coding problem every day** for th
 | Day 40(a)| Write a Program to Replace substring in a string                      | [Problem 40(a)](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_40/Day_40(a).md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_40/Day_40(a).md) | ✅    |
 | Day 41| Check if two strings match where one string contains wildcard characters                     | [Problem 41](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_41/Day_41.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_41/Day_41.md) | ✅    |
 | Day 42| Write Program to check if two arrays are the same or not                      | [Problem 42](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_42/Day_42.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_42/Day_42.md) | ✅    |
-| Day 43| next question                      | [Problem 43]()    | [Solution]() |     |
+| Day 43| Write Program to find the array type                      | [Problem 43](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_43/Day_43.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_43/Day_43.md) | ✅    |
+| Day 44| next question                      | [Problem 44]()    | [Solution]() |     |
+| Day 45| next question                      | [Problem 45]()    | [Solution]() |     |
+| Day 46| next question                      | [Problem 46]()    | [Solution]() |     |
+| Day 47| next question                      | [Problem 47]()    | [Solution]() |     |
+
 
 ---
 ### Stay tuned for my progress! 📅
