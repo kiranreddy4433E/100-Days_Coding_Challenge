@@ -62,7 +62,7 @@ I have embarked on this journey to solve **one coding problem every day** for th
 | Day 42| Write Program to check if two arrays are the same or not                      | [Problem 42](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_42/Day_42.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_42/Day_42.md) | ✅    |
 | Day 43| Write Program to find the array type                      | [Problem 43](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_43/Day_43.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_43/Day_43.md) | ✅    |
 | Day 44| Write Program to find number of even and odd elements in an array                      | [Problem 44](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_44/Day_44.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_44/Day_44.md) | ✅    |
-| Day 45| next question                      | [Problem 45]()    | [Solution]() |     |
+| Day 45| Write Program to find smallest and largest element in an array                      | [Problem 45](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_45/Day_45.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_45/Day_45.md) | ✅    |
 | Day 46| next question                      | [Problem 46]()    | [Solution]() |     |
 | Day 47| next question                      | [Problem 47]()    | [Solution]() |     |
 
