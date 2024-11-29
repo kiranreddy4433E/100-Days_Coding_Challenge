@@ -64,7 +64,11 @@ I have embarked on this journey to solve **one coding problem every day** for th
 | Day 44| Write Program to find number of even and odd elements in an array                      | [Problem 44](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_44/Day_44.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_44/Day_44.md) | ✅    |
 | Day 45| Write Program to find smallest and largest element in an array                      | [Problem 45](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_45/Day_45.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_45/Day_45.md) | ✅    |
 | Day 46|  Write Program to find sum of elements in an array                     | [Problem 46](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_46/Day_46.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_46/Day_46.md) | ✅    |
-| Day 47| next question                      | [Problem 47]()    | [Solution]() |     |
+| Day 47| Write Program to find longest palindrome in an array                      | [Problem 47](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_47/Day_47.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_47/Day_47.md) | ✅    |
+| Day 49| next question                      | [Problem 48]()    | [Solution]() |     |
+| Day 50| next question                      | [Problem 49]()    | [Solution]() |     |
+| Day 51| next question                      | [Problem 50]()    | [Solution]() |     |
+| Day 52| next question                      | [Problem 51]()    | [Solution]() |     |
 
 
 ---
