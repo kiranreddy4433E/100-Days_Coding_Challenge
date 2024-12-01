@@ -66,7 +66,7 @@ I have embarked on this journey to solve **one coding problem every day** for th
 | Day 46|  Write Program to find sum of elements in an array                     | [Problem 46](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_46/Day_46.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_46/Day_46.md) | ✅    |
 | Day 47| Write Program to find longest palindrome in an array                      | [Problem 47](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_47/Day_47.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_47/Day_47.md) | ✅    |
 | Day 48| Write Program to remove duplicate elements in an array                     | [Problem 48](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_48/Day_48.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_48/Day_48.md) | ✅    |
-| Day 49| next question                      | [Problem 49]()    | [Solution]() |     |
+| Day 49| Given 2 integer arrays X and Y of same size. Consider both arrays as vectors and print the minimum scalar product (Dot product) of 2 vectors.                     | [Problem 49](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_49/Day_49.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_49/Day_49.md) | ✅    |
 | Day 50| next question                      | [Problem 50]()    | [Solution]() |     |
 | Day 51| next question                      | [Problem 51]()    | [Solution]() |     |
 
