@@ -67,8 +67,17 @@ I have embarked on this journey to solve **one coding problem every day** for th
 | Day 47| Write Program to find longest palindrome in an array                      | [Problem 47](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_47/Day_47.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_47/Day_47.md) | ✅    |
 | Day 48| Write Program to remove duplicate elements in an array                     | [Problem 48](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_48/Day_48.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_48/Day_48.md) | ✅    |
 | Day 49| Given 2 integer arrays X and Y of same size. Consider both arrays as vectors and print the minimum scalar product (Dot product) of 2 vectors.                     | [Problem 49](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_49/Day_49.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_49/Day_49.md) | ✅    |
-| Day 50| next question                      | [Problem 50]()    | [Solution]() |     |
+| Day 50| Given an integer array of size N. Write Program to find sum of positive square elements in the array.                     | [Problem 50](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_50/Day_50.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_50/Day_50.md) | ✅    |
 | Day 51| next question                      | [Problem 51]()    | [Solution]() |     |
+| Day 52| next question                      | [Problem 52]()    | [Solution]() |     |
+| Day 53| next question                      | [Problem 53]()    | [Solution]() |     |
+| Day 54| next question                      | [Problem 54]()    | [Solution]() |     |
+| Day 55| next question                      | [Problem 55]()    | [Solution]() |     |
+| Day 56| next question                      | [Problem 56]()    | [Solution]() |     |
+| Day 57| next question                      | [Problem 57]()    | [Solution]() |     |
+| Day 58| next question                      | [Problem 58]()    | [Solution]() |     |
+| Day 59| next question                      | [Problem 59]()    | [Solution]() |     |
+| Day 60| next question                      | [Problem 60]()    | [Solution]() |     |
 
 
 ---
