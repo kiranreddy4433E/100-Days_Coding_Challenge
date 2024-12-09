@@ -4,6 +4,19 @@
 Welcome to **Day 57** of my **100 Days of Code Challenge**! Today, I implemented a Java program to determine whether a student passes or fails a test based on the scoring system of correct and incorrect answers. This problem was engaging and helped me practice handling multiple test cases and arithmetic operations.
 
 ## ✅ What I did today
+-"Pass or Fail
+
+Anusree is struggling to pass a certain college course.
+The test has a total of N question, each question carries 3 marks for a correct answer and −1 for an incorrect answer. Anusree is a risk-averse person so he decided to attempt all the questions. It is known that Anusree got X questions correct and the rest of them incorrect. For Anusree to pass the course he must score at least P marks.
+Will Anusree be able to pass the exam or not?
+Input Format
+First line will contain T, number of testcases. Then the testcases follow.
+Each testcase contains of a single line of input, three integers N, X, P.
+Output Format
+For each test case output ""PASS"" if Chef passes the exam and ""FAIL"" if Chef fails the exam.
+You may print each character of the string in uppercase or lowercase (for example, the strings ""pAas"", ""pass"", ""Pass"" and ""PASS"" will all be treated as identical).
+
+
 - Wrote a Java program to:
   1. Input the total number of test cases.
   2. For each test case, calculate the total score based on correct and incorrect answers.
