@@ -75,7 +75,7 @@ I have embarked on this journey to solve **one coding problem every day** for th
 | Day 55| Given 2 integer arrays X and Y of same size. Consider both arrays as vectors and print the sum of maximum scalar product (Dot product) of 2 vectors.                     | [Problem 55](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_55/Day_55.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_55/Day_55.md) | ✅    |
 | Day 56|  Write Program to find whether the numbers of an array be made equal                      | [Problem 56](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_56/Day_56.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_56/Day_56.md) | ✅    |
 | Day 57| "Pass or Fail"                      | [Problem 57](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_57/Day_57.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_57/Day_57.md) | ✅    |
-| Day 58| next question                      | [Problem 58]()    | [Solution]() |     |
+| Day 58| Nejiya has a bucket having a capacity of K liters. It is already filled with X liters of water.Find the maximum amount of extra water in liters that Nejiya can fill in the bucket without overflowing.     | [Problem 58](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_58/Day_58.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_58/Day_58.md) | ✅    |
 | Day 59| next question                      | [Problem 59]()    | [Solution]() |     |
 | Day 60| next question                      | [Problem 60]()    | [Solution]() |     |
 
