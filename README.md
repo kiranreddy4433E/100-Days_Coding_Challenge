@@ -77,7 +77,17 @@ I have embarked on this journey to solve **one coding problem every day** for th
 | Day 57| "Pass or Fail"                      | [Problem 57](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_57/Day_57.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_57/Day_57.md) | ✅    |
 | Day 58| Nejiya has a bucket having a capacity of K liters. It is already filled with X liters of water.Find the maximum amount of extra water in liters that Nejiya can fill in the bucket without overflowing.     | [Problem 58](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_58/Day_58.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_58/Day_58.md) | ✅    |
 | Day 59| You are given the height H (in metres) and mass M (in kilograms) of Anusree. The Body Mass Index (BMI) of a person is computed as M/H^2.Report the category into which Anusree falls, based on his BMI:Category 1: Underweight if BMI ≤18.Category 2: Normal weight if BMI ∈{19, 20,…, 24}.Category 3: Overweight if BMI ∈{25, 26,…, 29}.Category 4: Obesity if BMI ≥30                     | [Problem 59](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_59/Day_59.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_59/Day_59.md) | ✅    |
-| Day 60| next question                      | [Problem 60]()    | [Solution]() |     |
+| Day 60|The weather report of Magicland is Good if the number of sunny days in a week is strictly greater than the number of rainy days.Given 7 integers A1,A2,A3,A4,A5,A6,A7 where Ai=1 denotes that the ith day of week in Magicland is a sunny day, Ai=0 denotes that the ith day in Magicland is a rainy day. Determine if the weather report of Magicland is Good or not.| [Problem 60](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_60/Day_60.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_60/Day_60.md) | ✅    |
+| Day 61| next question                      | [Problem 61]()    | [Solution]() |     |
+| Day 62| next question                      | [Problem 62]()    | [Solution]() |     |
+| Day 63| next question                      | [Problem 63]()    | [Solution]() |     |
+| Day 64| next question                      | [Problem 64]()    | [Solution]() |     |
+| Day 65| next question                      | [Problem 65]()    | [Solution]() |     |
+| Day 66| next question                      | [Problem 66]()    | [Solution]() |     |
+| Day 67| next question                      | [Problem 67]()    | [Solution]() |     |
+| Day 68| next question                      | [Problem 68]()    | [Solution]() |     |
+| Day 69| next question                      | [Problem 69]()    | [Solution]() |     |
+| Day 70| next question                      | [Problem 70]()    | [Solution]() |     |
 
 
 ---
