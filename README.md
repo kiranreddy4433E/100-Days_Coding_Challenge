@@ -87,7 +87,19 @@ I have embarked on this journey to solve **one coding problem every day** for th
 | Day 67| Bricks Breaking. For her next karate demonstration, Arunima will break some bricks. Arunima stacked three bricks on top of each other. Initially, their widths (from top to bottom) are W1,W2,W3. Arunima strength is S. Whenever she hits a stack of bricks, consider the largest k≥0 such that the sum of widths of the topmost k bricks does not exceed S; the topmost k bricks break and are removed from the stack. Before each hit, Arunima may also decide to reverse the current stack of bricks, with no cost. Find the minimum number of hits Arunima needs in order to break all bricks if she performs the reversals optimally. You are not required to minimize the number of reversals.                     | [Problem 67](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/tree/main/Day_67)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/tree/main/Day_67) | ✅    |
 | Day 68|  you will be given queries. Each query is of one of the following three types: : Add an element to the set. : Delete an element from the set. (If the number is not present in the set, then do nothing). :If the number is present in the set, then print "Yes"(without quotes) else print "No"(without quotes).                  | [Problem 68](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/tree/main/Day_68)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/tree/main/Day_68) | ✅    |
 | Day 69|Suppose, we have a class A which is the base class and we have a class B which is derived from class A and we have a class C which is derived from class B, we can access the functions of both class A and class B by creating an object for class C. Hence, this mechanism is called multi-level inheritance. (B inherits A and C inherits B.). Create a class called Equilateral which inherits from Isosceles and should have a function such that the output is as given below.               | [Problem 69](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_69/Day_69.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_69/Day_69.md) | ✅    |
-| Day 70| next question                      | [Problem 70]()    | [Solution]() |     |
+| Day 70| Given an array, rotate the array by one position in clock-wise direction.              | [Problem 70](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_70/Day_70.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_70/Day_70.md) | ✅    |
+| Day 71| next question                      | [Problem 71]()    | [Solution]() |     |
+| Day 72| next question                      | [Problem 72]()    | [Solution]() |     |
+| Day 73| next question                      | [Problem 73]()    | [Solution]() |     |
+| Day 74| next question                      | [Problem 74]()    | [Solution]() |     |
+| Day 75| next question                      | [Problem 75]()    | [Solution]() |     |
+| Day 76| next question                      | [Problem 76]()    | [Solution]() |     |
+| Day 77| next question                      | [Problem 77]()    | [Solution]() |     |
+| Day 78| next question                      | [Problem 78]()    | [Solution]() |     |
+| Day 79| next question                      | [Problem 79]()    | [Solution]() |     |
+| Day 80| next question                      | [Problem 80]()    | [Solution]() |     |
+| Day 81| next question                      | [Problem 81]()    | [Solution]() |     |
+
 
 
 ---
