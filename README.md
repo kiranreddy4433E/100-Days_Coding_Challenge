@@ -91,7 +91,7 @@ I have embarked on this journey to solve **one coding problem every day** for th
 | Day 71| There are N students in a class, where the i-th student has a score of Ai?. The i-th student will boast if and only if the number of students scoring less than or equal Ai? is greater than the number of students scoring greater than Ai?. Find the number of students who will boast.                  | [Problem 71](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_71/Day_71.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_71/Day_71.md) | ✅    |
 | Day 72| next question                      | [Problem 72](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_72/Day_72.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_72/Day_72.md) |     |
 | Day 73| next question                      | [Problem 73](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_73/Day_73.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_73/Day_73.md) |     |
-| Day 74| next question                      | [Problem 74]()    | [Solution]() |     |
+| Day 74| next question                      | [Problem 74](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_74/Day_74.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_74/Day_74.md) |     |
 | Day 75| next question                      | [Problem 75]()    | [Solution]() |     |
 | Day 76| next question                      | [Problem 76]()    | [Solution]() |     |
 | Day 77| next question                      | [Problem 77]()    | [Solution]() |     |
