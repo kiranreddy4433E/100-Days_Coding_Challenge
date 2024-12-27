@@ -92,7 +92,7 @@ I have embarked on this journey to solve **one coding problem every day** for th
 | Day 72| next question                      | [Problem 72](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_72/Day_72.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_72/Day_72.md) |     |
 | Day 73| next question                      | [Problem 73](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_73/Day_73.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_73/Day_73.md) |     |
 | Day 74| next question                      | [Problem 74](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_74/Day_74.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_74/Day_74.md) |     |
-| Day 75| next question                      | [Problem 75]()    | [Solution]() |     |
+| Day 75| next question                      | [Problem 75](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_75/Day_75.md)    | [Solution](https://github.com/kiranreddy4433E/100-Days_Coding_Challenge/blob/main/Day_75/Day_75.md) |     |
 | Day 76| next question                      | [Problem 76]()    | [Solution]() |     |
 | Day 77| next question                      | [Problem 77]()    | [Solution]() |     |
 | Day 78| next question                      | [Problem 78]()    | [Solution]() |     |
